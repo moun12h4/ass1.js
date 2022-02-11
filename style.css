@@ -1,0 +1,13 @@
+button{
+    border-color: blueviolet;
+    margin: 2px;
+    color: blue;
+}
+.first{
+    background-color: aqua;
+    width : 340px;
+    border-style: inset;
+}
+img{
+    width: 340px;
+}
